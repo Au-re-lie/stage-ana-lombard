@@ -13,14 +13,7 @@ html {
 	font-family:Mukta, sans-serif;
 }
 
-@keyframes grossi {
-	from {
-		transform: scale(0);
-	}
-	to {
-		transform: scale(1.5);
-	}
-}
+
 h2, a , p, li, ul, h3 {
 	font-family: Mukta, sans-serif;
 }
